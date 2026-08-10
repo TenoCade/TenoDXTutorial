@@ -17,11 +17,15 @@
 
 ### 启动更新器
 
-在售后群下`SetupSTM32CubeProgrammer_win64.exe`安装  
+1. 在售后群下`SetupSTM32CubeProgrammer_win64.exe`安装  
 ![alt text](./resources/SetupSTM32CubeProgrammer_win64.png)  
-打开更新器  
+2. 打开更新器  
 ![alt text](./resources/SetupSTM32CubeProgrammer_win64.ico.png)  
-按照图示操作(要先进BL)
+3. 下载新固件  
+![alt text](./resources/updata-.png)  
+点加号，然后选择新固件
+![alt text](./resources/updata-1.png)
+4. 按照图示操作(要先进BL)
 ![alt text](./resources/updata.png)
 
 完成图中步骤之后插拔主控，看到主控有LED闪烁即为更新成功
