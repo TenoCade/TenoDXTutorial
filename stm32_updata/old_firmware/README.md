@@ -41,3 +41,12 @@
 ![alt text](./resources/tools2.png)
 4. 更改数据格式
 ![alt text](./resources/tools3.png)
+5. 打开mcm，控制器输入，找到映射, 记住内容
+![alt text](./resources/mcm1.png)  
+打开配置工具，按着mcm里面的映射，按循序配置然后保存， 重新插拔即可(如果不一样)。  
+例如我的映射数据是`E4, B4, D3....`, 那么就选择通道0，右边选E4;通道1，右边选B4;通道2，右边选D3...
+![alt text](./resources/tool4.png)
+
+### 游戏配置，打开mcm
+打开mcm，控制器输入，注意串口号和配置工具显示touch的要一样
+![alt text](./resources/mcm2.png)
