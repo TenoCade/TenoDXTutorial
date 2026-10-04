@@ -17,19 +17,19 @@
 
 ### 启动更新器
 
-1. 在售后群下`SetupSTM32CubeProgrammer_win64.exe`安装  
-![alt text](./resources/SetupSTM32CubeProgrammer_win64.png)  
-2. 打开更新器  
-![alt text](./resources/SetupSTM32CubeProgrammer_win64.ico.png)  
-3. 下载新固件  
-![alt text](./resources/updata-.png)  
-点加号，然后选择新固件
-![alt text](./resources/updata-1.png)
-4. 按照图示操作(要先进BL)
-![alt text](./resources/updata.png)
+1. 在售后群下`TenoDXFlashTool.exe`  
+![alt text](image.png)  
+2. 下载新固件(不一定是图片中的数字)  
+![alt text](./resources/updata-.png)
+3. 打开更新器，允许管理员权限，点击预览 加载下载的固件
+![alt text](image-1.png)
+4. 点击刷写，提示成功即可 如果没有反应的话，检查是否进入BL
+![alt text](image-2.png)
 
 完成图中步骤之后插拔主控，看到主控有LED闪烁即为更新成功
 
+---
+下方为保留内容，仅供参考，一般不用看
 ---
 
 ### 配置主控
